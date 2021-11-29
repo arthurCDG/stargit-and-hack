@@ -26,6 +26,7 @@ h4 {
 body {
     background-color: lightgray;
     text-align: center;
+    margin: 30px;
 }
 
 
@@ -61,10 +62,13 @@ body {
 .hobbylist {
   margin: 0 20px 50px 20px;
   width: 200px;
+  align-items: center;
+
 }
 
 .hobbylist img {
   height: 100px;
   display: flex;
   justify-content: center;
+  margin: 0;
 }
