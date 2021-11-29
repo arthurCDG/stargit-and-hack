@@ -1,0 +1,70 @@
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: left;
+}
+
+h3 {
+  background-color: lightyellow;
+  transform: skew(9deg,0deg);
+  font-style: italic;
+  font-family:Arial, Helvetica, sans-serif;
+  margin: 30px 150px;
+  font-size: 40px;
+  color:salmon
+}
+
+h4 {
+  font-size: 1em;
+  color: salmon;
+  font-weight: bold;
+}
+
+body {
+    background-color: lightgray;
+    text-align: center;
+}
+
+
+.animal_img {
+    height: 300px;
+}
+
+.name {
+    color: blue;
+    padding: 10px;
+    margin: 20px 0;
+}
+
+.list {
+    text-align: left;
+    list-style-type: '-';
+}
+
+.minyoung {
+  background-color: white;
+  padding-top: 20px;
+  border-radius: 5px;
+  border: solid 1px salmon;
+}
+
+.hobby {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+
+}
+
+.hobbylist {
+  margin: 0 20px 50px 20px;
+  width: 200px;
+}
+
+.hobbylist img {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+}
