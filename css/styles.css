@@ -1,0 +1,29 @@
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: left;
+}
+
+body {
+    background-color: lightgray;
+    text-align: center;
+}
+
+
+.animal_img {
+    height: 300px;
+}
+
+.name {
+    color: blue;
+    padding: 10px;
+    margin: 20px 0;
+}
+
+.list {
+    text-align: left;
+    list-style-type: none;
+}
