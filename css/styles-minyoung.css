@@ -52,8 +52,8 @@ body a {
 .minyoung {
   background-color: white;
   padding-top: 20px;
-  border-radius: 5px;
-  border: solid 1px salmon;
+  border-radius: 100px;
+  border: solid 3px salmon;
 }
 
 .hobby {
@@ -64,15 +64,16 @@ body a {
 }
 
 .hobbylist {
-  margin: 0 20px 50px 20px;
-  width: 200px;
-  align-items: center;
+  margin: 50px 20px;
+  max-width: 200px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
 
 }
 
 .hobbylist img {
-  height: 100px;
-  display: flex;
+  max-height: 100px;
   justify-content: center;
-  margin: 0;
+
 }
