@@ -29,6 +29,10 @@ body {
     margin: 30px;
 }
 
+body a {
+  text-decoration: none;
+  text-decoration-color: pink;
+}
 
 .animal_img {
     height: 300px;
