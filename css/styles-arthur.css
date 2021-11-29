@@ -1,0 +1,58 @@
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: left;
+}
+
+body {
+    background-color: lightgray;
+    text-align: center;
+}
+
+
+.animal_img {
+    height: 300px;
+}
+
+.name {
+    color: blue;
+    padding: 10px;
+    margin: 20px 0;
+}
+
+.list {
+    text-align: left;
+    list-style-type: none;
+}
+
+.Paragraph {
+    text-align: left;
+    font-weight:bold;
+}
+
+.list_arthur {
+    text-align: center;
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.styled_bulletpoint {
+  font-size: 30px;
+  color: white;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: lightskyblue;
+  width: 350px;
+  background-image: url(https://iconarchive.com/download/i107325/google/noto-emoji-animals-nature/22214-dog-face.ico);
+}
+
+#special_li {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 50px;
+}
